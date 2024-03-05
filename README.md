@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnjuTomz
+- 👋 Hi, I’m Anju Thomas
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python and Big data
 - 💞️ I’m looking to collaborate on ...
